@@ -25,7 +25,7 @@ And some only redirect links link `bit.ly` , `tinyurl`, etc
 
 # Usage
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheKVT/Shortlink-Bypasser/blob/Shortlink-Bypasser.ipynb)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheKVT/Shortlink-Bypasser/blob/master/Shortlink-Bypasser.ipynb)
 * Select options, run, ;)
 
 ## License
